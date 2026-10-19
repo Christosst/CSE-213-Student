@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fetch and visible states | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Fetch and visible states</h1>
+    <p>These local JSON files are fixtures for learning fetch. Chapter 29 replaces them with a real REST API.</p>
+    <button data-file="data/users.json">Load users</button><button data-file="data/empty.json">Empty result</button><button data-file="data/missing.json">HTTP error</button>
+    <p id="status" role="status">Choose a request.</p><ul id="users"></ul>
+  </main>
+  <script src="demo-fetch-states.js"></script>
+</body>
+</html>

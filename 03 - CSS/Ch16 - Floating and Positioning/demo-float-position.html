@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wrapping and positioning | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+.sticky { position: sticky; top: 0; background: #fff4ce; padding: 1rem; z-index: 1; } .story { display: flow-root; } .story img { float: left; margin: 0 1rem 1rem 0; } .card { position: relative; padding: 2rem; border: 1px solid #777; } .badge { position: absolute; top: .5rem; right: .5rem; background: #7f1d1d; color: white; padding: .25rem; } .space { min-height: 70vh; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Wrapping and positioning</h1>
+    <nav class="sticky">Sticky navigation: scroll to see it stay visible.</nav>
+    <article class="story"><img src="../../assets/campus.jpg" alt="Campus photograph from the course slides" width="160"><h2>Float wraps text</h2><p>A float allows nearby text to flow around an image. It is useful for an article, while Flexbox and Grid handle broader page layouts.</p><p>The article uses flow-root to contain its floated image.</p></article>
+    <div class="card"><p>Positioned parent</p><span class="badge">3 new</span></div>
+    <p class="space">Scroll down, then inspect the sticky navigation and the badge's positioned parent.</p>
+    <details><summary>Show briefly: fixed layers</summary><p>A fixed element is normally anchored to the viewport. A real modal also needs correct keyboard and focus behaviour.</p></details>
+  </main>
+</body>
+</html>

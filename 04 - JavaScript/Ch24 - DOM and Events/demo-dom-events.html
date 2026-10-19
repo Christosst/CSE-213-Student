@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A small task board | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+li { margin: 1rem 0; } li label { display: inline; } .completed span { text-decoration: line-through; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>A small task board</h1>
+    <form id="task-form"><label for="title">New task</label><input id="title" required maxlength="120"><button>Add task</button></form>
+    <ul id="tasks"></ul><p id="status" role="status">No tasks yet.</p>
+  </main>
+  <script src="demo-dom-events.js"></script>
+</body>
+</html>

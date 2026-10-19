@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Selecting the right element | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+.card p { color: #334155; } .card > p { font-weight: bold; } input[required] { border: 2px solid #777; } a:hover { color: #a52a1d; } .field:has(input:focus-visible) { background: #fff4ce; } :where(.note) { color: gray; } .note { color: #a52a1d; } :is(h1,h2) { line-height: 1.2; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Selecting the right element</h1>
+    <section class="card"><h2>Direct child</h2><p>A paragraph inside the card.</p><div><p>A deeper paragraph.</p></div></section>
+    <label class="field">Student name <input required></label>
+    <p><a href="../../index.html">A link with hover and keyboard focus</a></p>
+    <details><summary>Show briefly: :where, :is and :has</summary><p class="note">Inspect the matching rules and their specificity in DevTools.</p></details>
+  </main>
+</body>
+</html>

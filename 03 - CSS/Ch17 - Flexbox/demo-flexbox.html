@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>One-dimensional layout | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+.nav { display: flex; align-items: center; flex-wrap: wrap; gap: 1rem; } .account { margin-left: auto; } .cards { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 2rem; } .card { display: flex; flex-direction: column; flex: 1 1 280px; border: 1px solid #777; padding: 1rem; } .card a { margin-top: auto; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>One-dimensional layout</h1>
+    <nav class="nav"><strong>CSE213</strong><a href="../../index.html">Demos</a><a class="account" href="#cards">My study cards</a></nav>
+    <section class="cards" id="cards"><article class="card"><h2>HTML</h2><p>Structure.</p><a href="../../02%20-%20HTML/Ch04%20-%20HTML%20Overview/demo-semantic-vs-div.html">Review HTML</a></article><article class="card"><h2>CSS</h2><p>Presentation and layout. This card has more content, so compare where its action appears.</p><a href="../Ch11%20-%20Intro%20to%20CSS/demo-intro-css.html">Review CSS</a></article><article class="card"><h2>JavaScript</h2><p>Behaviour.</p><a href="../../04%20-%20JavaScript/Ch22%20-%20Intro%20to%20JavaScript/demo-js-fundamentals.html">Review JavaScript</a></article></section>
+  </main>
+</body>
+</html>

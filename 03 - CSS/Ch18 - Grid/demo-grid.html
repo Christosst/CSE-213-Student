@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Two-dimensional layout | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 1rem; } .gallery article, .dashboard > * { border: 1px solid #777; padding: 1rem; } .dashboard { display: grid; grid-template-columns: 1fr 2fr 1fr; grid-template-areas: "head head head" "nav content side" "foot foot foot"; gap: 1rem; } .dashboard header { grid-area: head; } .dashboard nav { grid-area: nav; } .dashboard article { grid-area: content; } .dashboard aside { grid-area: side; } .dashboard footer { grid-area: foot; } @media (max-width: 600px) { .dashboard { grid-template-columns: 1fr; grid-template-areas: "head" "nav" "content" "side" "foot"; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Two-dimensional layout</h1>
+    <p>Resize the page and enable the Grid overlay.</p>
+    <section class="gallery"><article>HTML</article><article>CSS</article><article>JavaScript</article></section>
+    <h2>Named areas</h2><div class="dashboard"><header>Header</header><nav>Navigation</nav><article>Main content</article><aside>Related content</aside><footer>Footer</footer></div>
+  </main>
+</body>
+</html>

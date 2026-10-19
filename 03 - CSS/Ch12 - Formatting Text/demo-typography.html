@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Readable typography | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+body { max-width: 65ch; font-size: 1rem; line-height: 1.6; } h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.15; } h2 { font-size: 1.5rem; } a { text-underline-offset: .2em; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Readable typography</h1>
+    <article><h2>A fluid heading</h2><p>This article uses a system font, a unitless line height and a maximum line length of 65ch. Resize the viewport and watch the main heading grow between its limits.</p><p><a href="../../index.html">Underlined links stay recognizable.</a></p><ul><li>Readable measure</li><li>Visible focus</li></ul></article>
+  </main>
+</body>
+</html>
