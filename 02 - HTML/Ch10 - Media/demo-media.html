@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Media with alternatives | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Media with alternatives</h1>
+    <p>This short silent flower clip comes from the MDN teaching examples and needs internet access.</p>
+    <video controls width="480" style="max-width:100%;height:auto" preload="metadata">
+      <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.webm" type="video/webm">
+      <source src="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4" type="video/mp4">
+      <track kind="captions" src="flower.vtt" srclang="en" label="English descriptions" default>
+      <p>Your browser cannot play the video.</p>
+    </video>
+    <h2>Text description</h2><p>A close-up of a flower moving gently outdoors. The clip has no dialogue.</p>
+    <p><a href="https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4">Open the video directly</a></p>
+  </main>
+</body>
+</html>

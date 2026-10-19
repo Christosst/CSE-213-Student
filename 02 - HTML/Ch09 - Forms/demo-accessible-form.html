@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A labelled HTML form | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+input, select, fieldset { margin-bottom: 1rem; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>A labelled HTML form</h1>
+    <p>Submit this form to the local classroom server and inspect the named fields.</p>
+    <form action="/form-echo" method="post">
+      <label for="name">Name</label><input id="name" name="name" required maxlength="80" autocomplete="name">
+      <label for="email">Email</label><input id="email" name="email" type="email" required autocomplete="email">
+      <label for="topic">Topic</label><select id="topic" name="topic"><option>HTML</option><option>CSS</option><option>JavaScript</option></select>
+      <fieldset><legend>Preferred session</legend><label><input type="radio" name="session" value="morning" checked> Morning</label><label><input type="radio" name="session" value="afternoon"> Afternoon</label></fieldset>
+      <button type="submit">Send form</button>
+    </form>
+  </main>
+</body>
+</html>

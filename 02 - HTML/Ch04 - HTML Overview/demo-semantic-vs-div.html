@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meaningful HTML | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+.example { border: 1px solid #777; padding: 1rem; } .heading, h3 { font-size: 1.2rem; font-weight: bold; margin: 0; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Meaningful HTML</h1>
+    <p>Inspect the two examples. The generic div provides no article meaning.</p>
+    <section><h2>Generic markup</h2><div class="example"><div class="heading">Campus news</div><div>The library opens at 08:00.</div></div></section>
+    <section><h2>Semantic markup</h2><article class="example"><h3>Campus news</h3><p>The library opens at 08:00.</p></article></section>
+  </main>
+</body>
+</html>

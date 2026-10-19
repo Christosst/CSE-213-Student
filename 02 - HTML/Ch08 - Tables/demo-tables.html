@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A small data table | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+table { border-collapse: collapse; } th, td { border: 1px solid #777; padding: .5rem; text-align: start; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>A small data table</h1>
+    <table>
+      <caption>Practice study schedule</caption>
+      <thead><tr><th scope="col">Topic</th><th scope="col">Session</th><th scope="col">Minutes</th></tr></thead>
+      <tbody><tr><th scope="row">HTML</th><td>1</td><td>30</td></tr><tr><th scope="row">CSS</th><td>2</td><td>40</td></tr><tr><th scope="row">JavaScript</th><td>3</td><td>50</td></tr></tbody>
+      <tfoot><tr><th scope="row" colspan="2">Total</th><td>120</td></tr></tfoot>
+    </table>
+  </main>
+</body>
+</html>
