@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>A page with or without JavaScript | CSE213</title>
+  <style>
+body { max-width: 65rem; margin: 2rem auto; padding: 0 1rem; font-family: system-ui, sans-serif; line-height: 1.6; }
+input, select, textarea, button { font: inherit; }
+button { cursor: pointer; }
+label { display: block; }
+:focus-visible { outline: 3px solid #a52a1d; outline-offset: 3px; }
+
+  </style>
+</head>
+<body>
+  <main>
+    <h1>A page with or without JavaScript</h1>
+    <p>The course information below remains readable when JavaScript is disabled.</p>
+    <h2>What to bring</h2><ul><li>A browser</li><li>A text editor</li></ul>
+    <button id="greet-btn" type="button">Click me</button>
+    <p id="message" role="status"></p>
+    <noscript><p>The greeting button needs JavaScript. The course information is still available.</p></noscript>
+  </main>
+  <script src="demo-progressive-enhancement.js"></script>
+</body>
+</html>
