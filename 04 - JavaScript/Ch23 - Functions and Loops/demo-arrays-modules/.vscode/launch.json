@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug JavaScript demo",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://127.0.0.1:5500/04%20-%20JavaScript/Ch23%20-%20Functions%20and%20Loops/demo-arrays-modules/index.html",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
