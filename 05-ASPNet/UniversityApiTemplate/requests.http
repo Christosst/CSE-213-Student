@@ -1,0 +1,176 @@
+@host = http://localhost:5086
+
+# ===================================================================
+# 1. STUDENTS (/api/students)
+# ===================================================================
+
+### 1.1 List all students
+GET {{host}}/api/students
+
+### 1.2 Create student #1
+POST {{host}}/api/students
+Content-Type: application/json
+
+{
+  "fullName": "Alex Demo",
+  "email": "alex@university.ac.cy",
+  "major": "Computer Science"
+}
+
+### 1.3 Create student #2
+POST {{host}}/api/students
+Content-Type: application/json
+
+{
+  "fullName": "Maria Georgiou",
+  "email": "maria@university.ac.cy",
+  "major": "Web Programming"
+}
+
+### 1.4 Get student by ID
+GET {{host}}/api/students/1
+
+### 1.5 Update student
+PUT {{host}}/api/students/1
+Content-Type: application/json
+
+{
+  "fullName": "Alex Demo",
+  "email": "alex.demo@university.ac.cy",
+  "major": "Data Science"
+}
+
+### 1.6 Search students
+GET {{host}}/api/students?search=maria
+
+
+# ===================================================================
+# 2. TEACHERS (/api/teachers)
+# ===================================================================
+
+### 2.1 List all teachers
+GET {{host}}/api/teachers
+
+### 2.2 Create teacher #1
+POST {{host}}/api/teachers
+Content-Type: application/json
+
+{
+  "fullName": "Dr. Christos Stylianides",
+  "email": "c.stylianides@university.ac.cy",
+  "department": "Computer Science"
+}
+
+### 2.3 Create teacher #2
+POST {{host}}/api/teachers
+Content-Type: application/json
+
+{
+  "fullName": "Dr. Elena Papapetrou",
+  "email": "e.papapetrou@university.ac.cy",
+  "department": "Software Engineering"
+}
+
+### 2.4 Get teacher by ID
+GET {{host}}/api/teachers/1
+
+### 2.5 Search teachers
+GET {{host}}/api/teachers?search=christos
+
+
+# ===================================================================
+# 3. COURSES (/api/courses)
+# ===================================================================
+
+### 3.1 List all courses
+GET {{host}}/api/courses
+
+### 3.2 Create course (assigned to Teacher #1)
+POST {{host}}/api/courses
+Content-Type: application/json
+
+{
+  "code": "CSE213",
+  "title": "Web Programming",
+  "teacherId": 1,
+  "credits": 6
+}
+
+### 3.3 Create another course (assigned to Teacher #2)
+POST {{host}}/api/courses
+Content-Type: application/json
+
+{
+  "code": "CSE310",
+  "title": "Database Systems",
+  "teacherId": 2,
+  "credits": 6
+}
+
+### 3.4 Get course by ID
+GET {{host}}/api/courses/1
+
+### 3.5 Filter course by code
+GET {{host}}/api/courses?code=CSE213
+
+
+# ===================================================================
+# 4. COURSE SECTIONS (/api/sections)
+# ===================================================================
+
+### 4.1 List all sections
+GET {{host}}/api/sections
+
+### 4.2 Create a section for Course #1 (CSE213)
+POST {{host}}/api/sections
+Content-Type: application/json
+
+{
+  "courseId": 1,
+  "teacherId": 1,
+  "sectionCode": "SEC-01",
+  "term": "Fall 2026",
+  "room": "Lab 3B"
+}
+
+### 4.3 Get section by ID
+GET {{host}}/api/sections/1
+
+
+# ===================================================================
+# 5. ENROLLMENTS (/api/enrollments)
+# ===================================================================
+
+### 5.1 List all enrollments
+GET {{host}}/api/enrollments
+
+### 5.2 Enroll Student #1 into Course #1 (Section #1)
+POST {{host}}/api/enrollments
+Content-Type: application/json
+
+{
+  "studentId": 1,
+  "courseId": 1,
+  "courseSectionId": 1,
+  "enrolledOn": "2026-10-16"
+}
+
+### 5.3 Prevent duplicate enrollment (Returns 409 Conflict)
+POST {{host}}/api/enrollments
+Content-Type: application/json
+
+{
+  "studentId": 1,
+  "courseId": 1,
+  "courseSectionId": 1,
+  "enrolledOn": "2026-10-16"
+}
+
+### 5.4 Prevent deleting enrolled student (Returns 409 Conflict)
+DELETE {{host}}/api/students/1
+
+### 5.5 Prevent deleting teacher assigned to course (Returns 409 Conflict)
+DELETE {{host}}/api/teachers/1
+
+### 5.6 Delete enrollment
+DELETE {{host}}/api/enrollments/1

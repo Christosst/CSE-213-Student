@@ -1,0 +1,4316 @@
+[
+  {
+    "id": 1,
+    "fullName": "Marina Appiou Nikiforou",
+    "email": "m.nikiforou@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 2,
+    "fullName": "Kyriacos Neocleous",
+    "email": "k.neocleous@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 3,
+    "fullName": "Charalambia Varnava",
+    "email": "ch.varnava@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 4,
+    "fullName": "Onisiforos Iordanou",
+    "email": "o.iordanous@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 5,
+    "fullName": "Kyriacos Antoniou",
+    "email": "k.antoniou@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 6,
+    "fullName": "Loukia Evripidou",
+    "email": "l.evripidou@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 7,
+    "fullName": "George Koliandris",
+    "email": "g.koliandris@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 8,
+    "fullName": "Marios Mavrides",
+    "email": "m.mavrides@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 9,
+    "fullName": "Alexios Kythreotis",
+    "email": "a.kythreotis@euc.ac.cy",
+    "department": "Accounting, Economics and Finance - Distance Learning"
+  },
+  {
+    "id": 10,
+    "fullName": "Marios Menexiadis",
+    "email": "m.menexiadis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 11,
+    "fullName": "Stella Mourouzidou Damtsa",
+    "email": "s.damtsa@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance - Distance Learning"
+  },
+  {
+    "id": 12,
+    "fullName": "Polina Ellina",
+    "email": "p.ellina@euc.ac.cy",
+    "department": "Accounting, Economics and Finance - Distance Learning"
+  },
+  {
+    "id": 13,
+    "fullName": "Orestis Pavlou",
+    "email": "o.pavlou@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance - Distance Learning"
+  },
+  {
+    "id": 14,
+    "fullName": "Antri Konstantinidi",
+    "email": "a.konstantinidi@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance - Distance Learning"
+  },
+  {
+    "id": 15,
+    "fullName": "TBA1 TBA1",
+    "email": "tba@euc.ac.cy",
+    "department": "Accounting, Economics and Finance - Distance Learning"
+  },
+  {
+    "id": 16,
+    "fullName": "Stavroula Salafori",
+    "email": "s.salafori@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 17,
+    "fullName": "Evita Livera",
+    "email": "e.livera@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 18,
+    "fullName": "Odysseas Michaelides",
+    "email": "o.michaelides@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 19,
+    "fullName": "Marios Athanasiou",
+    "email": "m.athanasiou@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 20,
+    "fullName": "Maria Elia Fotsios",
+    "email": "m.fotsios@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 21,
+    "fullName": "Kate Christoforou Rousos",
+    "email": "k.rousos@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 22,
+    "fullName": "Andreas Koliandris",
+    "email": "a.koliandris@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 23,
+    "fullName": "Anastasios Anastasiou",
+    "email": "ana.anastasiou@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 24,
+    "fullName": "Michalis Persianis",
+    "email": "m.persianis@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 25,
+    "fullName": "Alexander Apostolides",
+    "email": "a.apostolides@external.euc.ac.cy",
+    "department": "Accounting, Economics and Finance"
+  },
+  {
+    "id": 26,
+    "fullName": "Anastasia Ioannou",
+    "email": "an.ioannou@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 27,
+    "fullName": "Andreas Grondoudis",
+    "email": "a.grondoudis@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 28,
+    "fullName": "Andreas Papadopoulos",
+    "email": "and.papadopoulos@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 29,
+    "fullName": "Christodoulos Stylianou",
+    "email": "ch.stylianou@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 30,
+    "fullName": "Christos Dimopoulos",
+    "email": "c.dimopoulos@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 31,
+    "fullName": "Christos Kettenis",
+    "email": "c.kettenis@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 32,
+    "fullName": "Maria Ioanna Christodoulou",
+    "email": "mar.christodoulou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 33,
+    "fullName": "Sergios Antoniou",
+    "email": "se.antoniou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 35,
+    "fullName": "Christiana Christou",
+    "email": "chr.christou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 39,
+    "fullName": "Chrystalla Antoniou",
+    "email": "c.antoniou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 40,
+    "fullName": "Elli Tzirkalli",
+    "email": "e.tzirkalli@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 41,
+    "fullName": "Eirini Moutsouri",
+    "email": "e.moutsouri@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 42,
+    "fullName": "Antonia Tsouri",
+    "email": "a.tsouri@research.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 43,
+    "fullName": "Kalliopi Georgiades",
+    "email": "k.georgiades@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 44,
+    "fullName": "Eleni Kamilari",
+    "email": "e.kamilari@research.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 45,
+    "fullName": "Nicolas George Eliades",
+    "email": "n.eliades@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 46,
+    "fullName": "Agni Hadjilouca",
+    "email": "a.hadjilouca@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 49,
+    "fullName": "Antonia Sophocleous",
+    "email": "a.sophocleous@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 52,
+    "fullName": "Eleni Hadjikyprianou",
+    "email": "e.hadjikyprianou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 53,
+    "fullName": "Panos Panayiotou",
+    "email": "p.panayiotou@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 54,
+    "fullName": "Iakovos Nomikos",
+    "email": "i.nomikos@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 55,
+    "fullName": "Victoria Beeks",
+    "email": "v.beeks@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 58,
+    "fullName": "Ippokratis Messaritakis",
+    "email": "i.messaritakis@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 59,
+    "fullName": "Eirini Tzanetakou",
+    "email": "i.tzanetakou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 60,
+    "fullName": "Elina Psara",
+    "email": "e.psara@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 63,
+    "fullName": "Apostolos Zaravinos",
+    "email": "a.zaravinos@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 64,
+    "fullName": "Stephanos Christodoulides",
+    "email": "s.christodoulides@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 65,
+    "fullName": "Malamati Kourti",
+    "email": "m.kourti@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 66,
+    "fullName": "Vasiliki Gkretsi",
+    "email": "v.gkretsi@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 68,
+    "fullName": "Carol Murphy",
+    "email": "c.murphy@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 69,
+    "fullName": "Thomas Foreman",
+    "email": "t.foreman@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 70,
+    "fullName": "Christina Mylona-Parparinou",
+    "email": "c.mylona-parparinou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 71,
+    "fullName": "Nikos Anastasiou",
+    "email": "n.anastasiou@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 72,
+    "fullName": "Maria Mella",
+    "email": "m.mella@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 73,
+    "fullName": "Christakis Sourouklis",
+    "email": "c.sourouklis@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 74,
+    "fullName": "Gregoris Demetriou",
+    "email": "g.demetriou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 75,
+    "fullName": "Costas Ellinas",
+    "email": "c.ellinas@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 76,
+    "fullName": "Yiannos Rossides",
+    "email": "y.rossides@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 77,
+    "fullName": "Cathrin Lazarou Kitteni",
+    "email": "c.lazarou@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 78,
+    "fullName": "Natassia Allery",
+    "email": "n.allery@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 79,
+    "fullName": "George Antoniades",
+    "email": "g.antoniades@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 80,
+    "fullName": "Christos Agapiou",
+    "email": "c.agapiou@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 81,
+    "fullName": "Ioannis Michos",
+    "email": "i.michos@euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 82,
+    "fullName": "Maria Agrotis",
+    "email": "m.agrotis@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 83,
+    "fullName": "Pantelitsa Eteokleous",
+    "email": "pa.eteokleous@euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 84,
+    "fullName": "Nicolas Nicolaou",
+    "email": "n.nikolaou@external.cycollege.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 85,
+    "fullName": "Lycourgos Hadjiphanis",
+    "email": "l.hadjiphanis@euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 86,
+    "fullName": "Polykarpos Votsis",
+    "email": "p.votsis@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 87,
+    "fullName": "Andreas Chadjikyprianou",
+    "email": "a.chatzikyprianou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 88,
+    "fullName": "Monica Shiakou",
+    "email": "m.siakou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 89,
+    "fullName": "Christiana Theodorou",
+    "email": "c.theodorou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 90,
+    "fullName": "Michaella Paraskeva-Siamata",
+    "email": "m.paraskeva-siamata@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 91,
+    "fullName": "Danae Papageorgiou",
+    "email": "d.papageorgiou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 92,
+    "fullName": "Georgios Georgiou",
+    "email": "g.georgiou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 93,
+    "fullName": "Andria Christodoulou",
+    "email": "and.christodoulou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 94,
+    "fullName": "Constantina Demetriou",
+    "email": "co.demetriou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 95,
+    "fullName": "Spyridon Kamtsios",
+    "email": "s.kamtsios@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 96,
+    "fullName": "Aikaterini Argyropoulou",
+    "email": "k.argyropoulou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 97,
+    "fullName": "Achillefs Giannelos",
+    "email": "a.giannelos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 98,
+    "fullName": "Anastasios Asvestas",
+    "email": "a.asvestas@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 99,
+    "fullName": "Christina Rousi",
+    "email": "c.rousi@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 100,
+    "fullName": "Eleni Athanasiou",
+    "email": "e.athanasiou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 101,
+    "fullName": "Panagoula Papadimitropoulou",
+    "email": "p.papadimitropoulou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 102,
+    "fullName": "Nikolaos Drosos",
+    "email": "n.drosos@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 103,
+    "fullName": "Andronikos Kaliris",
+    "email": "a.kaliris@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 105,
+    "fullName": "Argyro Charokopaki",
+    "email": "a.charopopaki@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 106,
+    "fullName": "Paraskevi Poulogiannopoullou",
+    "email": "p.poulogiannopoullou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 107,
+    "fullName": "Athanasia Kleanthous",
+    "email": "a.kleanthous@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 108,
+    "fullName": "Nikolaos Mouratoglou",
+    "email": "n.mouratoglou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 109,
+    "fullName": "Andreas Kourtellaris",
+    "email": "a.kourtellaris@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 110,
+    "fullName": "Christos Malliarakis",
+    "email": "c.malliarakis@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 111,
+    "fullName": "Krystallo Nicolaou",
+    "email": "k.nicolaou@euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 112,
+    "fullName": "Monica Hadjichrysanthou",
+    "email": "m.hadjichrysanthou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 113,
+    "fullName": "Christoforos Fokaides",
+    "email": "c.fokaides@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 114,
+    "fullName": "Christos Stylianides",
+    "email": "c.stylianides@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 115,
+    "fullName": "Cleo Varianou Mikellidou",
+    "email": "c.varianou@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 117,
+    "fullName": "Constantinos Psomas",
+    "email": "c.psomas@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 118,
+    "fullName": "Demetris Hadjiloucas",
+    "email": "d.hadjiloucas@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 119,
+    "fullName": "Dionysios Fanidis",
+    "email": "d.fanidis@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 120,
+    "fullName": "Georgios Boustras",
+    "email": "g.boustras@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 121,
+    "fullName": "Georgios Kyprianou",
+    "email": "g.kyprianou@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 122,
+    "fullName": "Ioannis Mamais",
+    "email": "i.mamais@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 123,
+    "fullName": "Katerina Papanikolaou",
+    "email": "k.papanikolaou@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 124,
+    "fullName": "Klea Panayidou",
+    "email": "k.panayidou@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 125,
+    "fullName": "Konstantinos Katzis",
+    "email": "k.katzis@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 126,
+    "fullName": "Kostas Iordanou",
+    "email": "c.iordanou@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 127,
+    "fullName": "Kyriakos Christofi",
+    "email": "ky.christofi@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 128,
+    "fullName": "Leandros Maglaras",
+    "email": "l.maglaras@external.euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 129,
+    "fullName": "Leonidas Koufopavlou",
+    "email": "l.koufopavlou@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 130,
+    "fullName": "Marios Kynigos",
+    "email": "m.kynigos@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 131,
+    "fullName": "Michael Georgiou",
+    "email": "mic.georgiou@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 143,
+    "fullName": "Christos Harous",
+    "email": "c.harous@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 145,
+    "fullName": "Andreas Yiallouris",
+    "email": "a.yiallouris@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 148,
+    "fullName": "Aristomenis Syngelakis",
+    "email": "a.syngelakis@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 152,
+    "fullName": "Dora Kostelidou",
+    "email": "t.kostelidou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 153,
+    "fullName": "Greta Wozniak",
+    "email": "g.wozniak@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 154,
+    "fullName": "Panagiotis Soukakos",
+    "email": "t.soukakos@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 156,
+    "fullName": "Anna Digka",
+    "email": "a.digka@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 187,
+    "fullName": "Argyro Kavadella",
+    "email": "a.kavadella@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 189,
+    "fullName": "Michaela Giannopoulou",
+    "email": "m.giannopoulou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 202,
+    "fullName": "Eleftherios Kaklamanos",
+    "email": "e.kaklamanos@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 203,
+    "fullName": "Dimitrios Paraskevis",
+    "email": "d.paraskevis@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 204,
+    "fullName": "Persefoni Lambrou Christodoulou",
+    "email": "p.lambrou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 205,
+    "fullName": "Panayiota Panayi Bhageerutty",
+    "email": "p.panayi@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 207,
+    "fullName": "Georgios Pantelas",
+    "email": "g.pantelas@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 209,
+    "fullName": "Athanasios Athanasiou",
+    "email": "at.athanasiou@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 210,
+    "fullName": "Vassiliki Anastassiadou",
+    "email": "va.anastasiadou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 211,
+    "fullName": "Margarita Kilili",
+    "email": "m.kilili-lesta@external.euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 212,
+    "fullName": "Chryssoula Thodi",
+    "email": "c.thodi@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 213,
+    "fullName": "Louiza Voniati",
+    "email": "l.voniati@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 215,
+    "fullName": "Claire Georghiou",
+    "email": "c.georghiou@euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 216,
+    "fullName": "Aikaterini Michalopoulou",
+    "email": "a.michalopoulou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 217,
+    "fullName": "Efstratia Sofou",
+    "email": "e.sofou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 219,
+    "fullName": "Nektarios Stellakis",
+    "email": "n.stellakis@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 221,
+    "fullName": "Program Coordinator",
+    "email": "programcoordinator@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 222,
+    "fullName": "Michael Skitsas",
+    "email": "m.skitsas@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 223,
+    "fullName": "Michail Smyrlis",
+    "email": "m.smyrlis@external.euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 225,
+    "fullName": "Michalis Papamichael",
+    "email": "m.papamichael@external.euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 226,
+    "fullName": "Nikolaos Tsalis",
+    "email": "n.tsalis@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 227,
+    "fullName": "Olga Nicolaidou",
+    "email": "o.nicolaidou@external.euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 228,
+    "fullName": "Marios Vryonides",
+    "email": "m.vryonides@euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 229,
+    "fullName": "Loucas Louca",
+    "email": "l.louca@euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 230,
+    "fullName": "TBA2 TBA2",
+    "email": "tba2@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 231,
+    "fullName": "Ioanna Vekiri",
+    "email": "io.vekiri@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 232,
+    "fullName": "Aggeliki Markoglou",
+    "email": "a.markoglou@external.euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 233,
+    "fullName": "Marianna Efstathiadou",
+    "email": "m.efstathiadou@euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 234,
+    "fullName": "Kyrillos Nikolaou",
+    "email": "ky.nikolaou@external.euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 235,
+    "fullName": "Chrystalla Papademetri",
+    "email": "c.papademetri@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 236,
+    "fullName": "Christina Tracoshi",
+    "email": "c.tracoshi@research.euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 237,
+    "fullName": "Evgenia Achilleos",
+    "email": "e.achilleos@external.euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 238,
+    "fullName": "Antonia Kalli",
+    "email": "a.kalli@euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 239,
+    "fullName": "Chrissie Maroulli",
+    "email": "c.maroulli@external.euc.ac.cy",
+    "department": "Education Sciences"
+  },
+  {
+    "id": 240,
+    "fullName": "Georgia Solomonidou",
+    "email": "ge.solomonidou@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 241,
+    "fullName": "Aikaterini Michou",
+    "email": "a.michou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 242,
+    "fullName": "Ioulia Televantou",
+    "email": "i.televantou@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 243,
+    "fullName": "Theodoros Thanos",
+    "email": "t.thanos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 244,
+    "fullName": "Evangelia Kosmidou",
+    "email": "e.kosmidou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 245,
+    "fullName": "Andreas Avgerinos",
+    "email": "a.avgerinos@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 246,
+    "fullName": "Styliani Litsiousi",
+    "email": "s.litsiousi@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 247,
+    "fullName": "Maria Chalari",
+    "email": "m.chalari@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 248,
+    "fullName": "Andromachi Bouna Vaila",
+    "email": "a.vaila@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 255,
+    "fullName": "Konstantina Tsoli",
+    "email": "k.tsoli@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 256,
+    "fullName": "Georgios Stavrinos",
+    "email": "g.stavrinos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 257,
+    "fullName": "Maria Papazachariou Christ",
+    "email": "m.papazachariou@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 258,
+    "fullName": "Maria Magklara",
+    "email": "m.magklara@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 259,
+    "fullName": "Nicoletta Ieridou",
+    "email": "n.ieridou@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 260,
+    "fullName": "Andriana Manoli",
+    "email": "a.manoli@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 261,
+    "fullName": "Effie Ioannou",
+    "email": "ef.ioannou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 262,
+    "fullName": "Maria Pavlou",
+    "email": "m.pavlou@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 263,
+    "fullName": "Anastasia Athanasiou",
+    "email": "a.athanasiou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 264,
+    "fullName": "Elina Panayiotou",
+    "email": "e.panayiotou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 265,
+    "fullName": "Savvia Georgiou",
+    "email": "s.georgiou@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 266,
+    "fullName": "Marina Antoniadou",
+    "email": "m.antoniadou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 268,
+    "fullName": "Paraskevi Chatzipanagiotou",
+    "email": "p.chatzipanagiotou@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 269,
+    "fullName": "Vasilios Andrikopoulos",
+    "email": "v.andrikopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 270,
+    "fullName": "Stella Stavrou Theodotou",
+    "email": "s.theodotou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 271,
+    "fullName": "Evangelia Panta",
+    "email": "e.panta@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 272,
+    "fullName": "Maria Malagkoniari",
+    "email": "m.malagkoniari@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 273,
+    "fullName": "Mariana Papakonstantinou",
+    "email": "m.papakonstantinou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 274,
+    "fullName": "Evi Charalambous",
+    "email": "ev.charalambous@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 275,
+    "fullName": "Aggelos Kavasakalis",
+    "email": "a.kavasakalis@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 276,
+    "fullName": "Christos Tsiailis",
+    "email": "c.tsiailis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 277,
+    "fullName": "Katerina Kyriacou",
+    "email": "k.kyriacou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 278,
+    "fullName": "Damaskini Metzidaki",
+    "email": "d.metzidaki@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 279,
+    "fullName": "Irene Sophocleous Letymbioti",
+    "email": "i.letymbioti@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 280,
+    "fullName": "Eleni Lipsos",
+    "email": "e.lipsos@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 281,
+    "fullName": "Aristomenis Papageorgiou",
+    "email": "a.papageorgiou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 282,
+    "fullName": "Christina Varnava-Vasou",
+    "email": "c.varnava-vasou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 283,
+    "fullName": "Demetrios Sotiropoulos",
+    "email": "d.sotiropoulos@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 285,
+    "fullName": "Maria Meletiou",
+    "email": "m.mavrotheris@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 286,
+    "fullName": "Petra Daniel",
+    "email": "p.daniel@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 287,
+    "fullName": "Alexandros Savvides",
+    "email": "al.savvides@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 288,
+    "fullName": "Elena Stylianou",
+    "email": "e.stylianou@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 289,
+    "fullName": "Sofia Hadjipapa",
+    "email": "s.hadjipapa@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 290,
+    "fullName": "Anna Fotiadou",
+    "email": "a.fotiadou@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 291,
+    "fullName": "Yianna Christophorou",
+    "email": "y.christophorou@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 292,
+    "fullName": "Elina Antoniou",
+    "email": "e.antoniou@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 293,
+    "fullName": "Nearchos Constantinou",
+    "email": "n.konstantinou@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 294,
+    "fullName": "Myrianthi Fragki",
+    "email": "m.fragki@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 296,
+    "fullName": "Andreas Protopapas",
+    "email": "a.protopapas@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 297,
+    "fullName": "Chrysostomos Chrysostomou A",
+    "email": "ch.chrysostomou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 299,
+    "fullName": "Stefani Zembashi",
+    "email": "s.zembashi@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 302,
+    "fullName": "Andria Hadjikou",
+    "email": "a.hadjikou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 303,
+    "fullName": "Sofia Tzioni",
+    "email": "s.tzioni@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 304,
+    "fullName": "Charalampos Stavrou",
+    "email": "c.stavrou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 305,
+    "fullName": "Antonis Constantinou",
+    "email": "an.constantinou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 306,
+    "fullName": "Savvoula Ghobrial",
+    "email": "s.ghobrial@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 307,
+    "fullName": "Kyriakos Alexandrou",
+    "email": "k.alexandrou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 309,
+    "fullName": "Dora Papamichael",
+    "email": "d.papamichael@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 310,
+    "fullName": "Maria Kyprianidou",
+    "email": "m.kyprianidou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 311,
+    "fullName": "George Charilaou",
+    "email": "g.charilaou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 312,
+    "fullName": "Periklis Zavridis",
+    "email": "p.zavridis@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 314,
+    "fullName": "George Pamboris",
+    "email": "g.pamboris@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 315,
+    "fullName": "Vasiliki Vlachou",
+    "email": "v.vlachou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 316,
+    "fullName": "Georgios Papaioannou",
+    "email": "g.papaioannou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 317,
+    "fullName": "Panos Christodoulou",
+    "email": "p.christodoulou@euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 318,
+    "fullName": "Chrysovalantis Kyriacou",
+    "email": "ch.kyriacou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 319,
+    "fullName": "Annini Tsioutis",
+    "email": "a.tsiouti@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 331,
+    "fullName": "Elisavet Kiourti",
+    "email": "e.kiourti@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 332,
+    "fullName": "Antigone Themistokleous",
+    "email": "a.themistocleous@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 333,
+    "fullName": "Charalampos Magoulas",
+    "email": "c.magoulas@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 334,
+    "fullName": "Stelios Stylianou",
+    "email": "st.stylianou@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 335,
+    "fullName": "Andria Hadjistylli",
+    "email": "a.hadjistylli@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 336,
+    "fullName": "Thomas Bambalis",
+    "email": "t.mpampalis@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 337,
+    "fullName": "Anastasia Liasidou",
+    "email": "a.liasidou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 338,
+    "fullName": "Maria Tsakiri",
+    "email": "m.tsakiri@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 339,
+    "fullName": "Anastasia Vlachou",
+    "email": "an.vlachou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 340,
+    "fullName": "Eleni Damianidou",
+    "email": "e.damianidou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 341,
+    "fullName": "Maria Iacovou",
+    "email": "m.iacovou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 342,
+    "fullName": "Anna Tsakalaki",
+    "email": "a.tsakalaki@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 343,
+    "fullName": "Anastasia Hadjiyiannakou",
+    "email": "a.hadjiyiannakou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 344,
+    "fullName": "Katerina Mavrou",
+    "email": "k.mavrou@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 345,
+    "fullName": "Constadina Charalambous",
+    "email": "co.charalambous@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 346,
+    "fullName": "Maria Litsa",
+    "email": "m.litsa@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 347,
+    "fullName": "Kika Hadjikakou",
+    "email": "k.hadjikakou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 348,
+    "fullName": "Eleni Theodorou",
+    "email": "e.theodorou@euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 351,
+    "fullName": "Kyproula Makri",
+    "email": "k.makri@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 353,
+    "fullName": "Vasileia Anaxagorou",
+    "email": "v.anaxagorou@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 356,
+    "fullName": "Katerina Polemidiotou",
+    "email": "k.polemidiotou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 357,
+    "fullName": "Alexandros Phokas",
+    "email": "a.phokas@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 361,
+    "fullName": "Maria Tenizi",
+    "email": "m.tenizi@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 362,
+    "fullName": "Eleni Mariou",
+    "email": "e.mariou@euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 363,
+    "fullName": "Dimitra Karoulla-Vrikki",
+    "email": "d.karoulla@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 364,
+    "fullName": "Axiotis Kechagias",
+    "email": "a.kechagias@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 365,
+    "fullName": "Vicky Papachristou",
+    "email": "v.papachristou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 366,
+    "fullName": "Stave Vergopoulou",
+    "email": "s.vergopoulou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 367,
+    "fullName": "Ourania Karoula",
+    "email": "o.karoula@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 368,
+    "fullName": "Stavros Karagianni Stavrou",
+    "email": "s.karayanni@euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 369,
+    "fullName": "James Mackay",
+    "email": "j.mackay@euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 370,
+    "fullName": "Stamatina Yannakourou",
+    "email": "s.yannakourou@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 371,
+    "fullName": "Theano Mavromoustaki",
+    "email": "t.mavromoustaki@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 372,
+    "fullName": "Athina Kontogianni",
+    "email": "a.kontogianni@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 373,
+    "fullName": "Iacovos Kareklas",
+    "email": "i.kareklas@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 375,
+    "fullName": "Charalambos Stamelos",
+    "email": "c.stamelos@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 376,
+    "fullName": "Thalia Prastitou",
+    "email": "t.prastitou@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 377,
+    "fullName": "Nikolaos Stavrou",
+    "email": "n.stavrou@external.cycollege.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 378,
+    "fullName": "Philippe Jougleux",
+    "email": "p.jougleux@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 379,
+    "fullName": "Evripides Hadjinestoros",
+    "email": "e.hadjinestoros@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 380,
+    "fullName": "Marios Koutsoftas",
+    "email": "m.koutsoftas@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 381,
+    "fullName": "Paraskevas Adamis",
+    "email": "p.adamis@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 382,
+    "fullName": "Laris Vrahimis",
+    "email": "l.vrahimis@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 383,
+    "fullName": "Lemonia Kaoutzani Sklavounou",
+    "email": "l.kaoutzani@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 384,
+    "fullName": "Antigoni Alexandropoulou",
+    "email": "a.alexandropoulou@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 385,
+    "fullName": "Theodoros Karagiannis",
+    "email": "t.karagiannis@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 386,
+    "fullName": "Dimitra Konstantinidou",
+    "email": "d.konstantinidou@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 387,
+    "fullName": "Evangelos Pournaras",
+    "email": "e.pournaras@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 388,
+    "fullName": "Kyriakos Kenevezos",
+    "email": "k.kenevezos@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 389,
+    "fullName": "Georgia Kogka",
+    "email": "g.kogka@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 390,
+    "fullName": "Michalis Stavrinos",
+    "email": "m.stavrinos@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 391,
+    "fullName": "Nikolaos Lyberis",
+    "email": "n.lyberis@external.euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 393,
+    "fullName": "Christiana Marcou",
+    "email": "c.markou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 394,
+    "fullName": "Konstantinos Tsimaras",
+    "email": "k.tsimaras@euc.ac.cy",
+    "department": "Law - Distance Learning"
+  },
+  {
+    "id": 395,
+    "fullName": "Theodoros Galanis",
+    "email": "t.galanis@external.euc.ac.cy",
+    "department": "Law - Distance Learning"
+  },
+  {
+    "id": 396,
+    "fullName": "Marilena Katsogiannou",
+    "email": "m.katsogiannou@euc.ac.cy",
+    "department": "Law - Distance Learning"
+  },
+  {
+    "id": 397,
+    "fullName": "Christos Satlanis",
+    "email": "c.satlanis@external.euc.ac.cy",
+    "department": "Law - Distance Learning"
+  },
+  {
+    "id": 398,
+    "fullName": "Georgios Chloupis",
+    "email": "g.chloupis@euc.ac.cy",
+    "department": "Law - Distance Learning"
+  },
+  {
+    "id": 400,
+    "fullName": "Nikolaos Boukas",
+    "email": "n.boukas@euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 401,
+    "fullName": "Panagiotis Evangelides",
+    "email": "p.evangelides@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 402,
+    "fullName": "Christina Kyriacou",
+    "email": "c.kyriacou@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 403,
+    "fullName": "Dino Domic",
+    "email": "d.domic@euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 404,
+    "fullName": "Marilia Kountouridou",
+    "email": "m.kountouridou@external.cycollege.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 405,
+    "fullName": "Mary Charalambous- Papamiltiades",
+    "email": "m.papamiltiades@euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 406,
+    "fullName": "Panayiotis Antoniou",
+    "email": "pa.antoniou@external.euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 407,
+    "fullName": "Pericles Cheng",
+    "email": "p.cheng@euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 410,
+    "fullName": "Emily Tsikkou",
+    "email": "e.tsikkou@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 411,
+    "fullName": "Marios Soupashis",
+    "email": "m.soupashis@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 412,
+    "fullName": "Evangelia Pappa",
+    "email": "e.pappa@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 413,
+    "fullName": "Marios Theophilou",
+    "email": "m.theophilou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 414,
+    "fullName": "George Markides",
+    "email": "g.markides@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 415,
+    "fullName": "Georgios Rigopoulos",
+    "email": "g.rigopoulos@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 416,
+    "fullName": "Panagiotis Tzavaras",
+    "email": "p.tzavaras@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 417,
+    "fullName": "Nicolaos Schiniotakis",
+    "email": "n.schiniotakis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 418,
+    "fullName": "George Stathakis",
+    "email": "g.stathakis@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 419,
+    "fullName": "Andreas Efstathiades",
+    "email": "a.efstathiades@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 420,
+    "fullName": "Michael Amprikidis",
+    "email": "m.amprikidis@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 421,
+    "fullName": "Demetrios Theophylactou",
+    "email": "d.theophylactou@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 422,
+    "fullName": "Konstantinos Kasaras",
+    "email": "k.kasaras@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 423,
+    "fullName": "Maria Socratous",
+    "email": "m.socratous@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 424,
+    "fullName": "Androniki Panteli",
+    "email": "a.panteli@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 425,
+    "fullName": "Nektarios Makrydakis",
+    "email": "n.makrydakis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 426,
+    "fullName": "Zoi Charis Belenioti",
+    "email": "z.belenioti@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 427,
+    "fullName": "Panagiotis Andrikopoulos",
+    "email": "p.andrikopoulos@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 428,
+    "fullName": "Dimitrios Dapontas",
+    "email": "d.dapontas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 429,
+    "fullName": "Ioanna Pavlidou",
+    "email": "i.pavlidou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 430,
+    "fullName": "Angelos Vouldis",
+    "email": "a.vouldis@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 431,
+    "fullName": "Eirini Peitzika",
+    "email": "e.peitzika@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 432,
+    "fullName": "Myria Ioannou",
+    "email": "m.ioannou@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 433,
+    "fullName": "Panagiotis Ballas",
+    "email": "p.ballas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 438,
+    "fullName": "Christiana Neophytou",
+    "email": "c.neophytou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 451,
+    "fullName": "Sophia Themistocleous",
+    "email": "s.themistocleous@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 459,
+    "fullName": "Andreas Mamilos",
+    "email": "a.mamilos@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 466,
+    "fullName": "Theodore Lytras",
+    "email": "t.lytras@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 476,
+    "fullName": "Elena Panayiotou",
+    "email": "el.panayiotou@external.euc.ac.cy",
+    "department": "Management and Marketing"
+  },
+  {
+    "id": 477,
+    "fullName": "Elmos Konis",
+    "email": "e.konis@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 478,
+    "fullName": "Dimitris Ioannou",
+    "email": "d.ioannou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 479,
+    "fullName": "Pantelis Hadjiyerou",
+    "email": "p.hadjiyerou@external.cycollege.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 480,
+    "fullName": "Andrie Penta",
+    "email": "a.penta@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 481,
+    "fullName": "Andri Kyprianou",
+    "email": "a.kyprianou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 482,
+    "fullName": "Paris Vogazianos",
+    "email": "p.vogazianos@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 483,
+    "fullName": "Aikaterini Sousamidou",
+    "email": "a.sousamidou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 484,
+    "fullName": "Louiza Ioannidou",
+    "email": "l.ioannidou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 485,
+    "fullName": "Iosif Kourakis",
+    "email": "i.kourakis@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 486,
+    "fullName": "Ifigenia Stylianou",
+    "email": "if.stylianou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 487,
+    "fullName": "Ioanna Georgiadou",
+    "email": "i.georgiadou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 488,
+    "fullName": "Erifylli Tsirempolou",
+    "email": "e.tsirempolou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 489,
+    "fullName": "Panayiota Dimitropoulou",
+    "email": "p.dimitropoulou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 490,
+    "fullName": "Panagiotis Parpottas",
+    "email": "p.parpottas@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 500,
+    "fullName": "Christos Kassimeris",
+    "email": "c.kassimeris@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 501,
+    "fullName": "Dimitrios Georgios Patsikas",
+    "email": "d.patsikas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 502,
+    "fullName": "Michail Galanakis",
+    "email": "m.galanakis@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 503,
+    "fullName": "Aikaterini Grimani",
+    "email": "a.grimani@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 504,
+    "fullName": "Emily Pia",
+    "email": "e.pia@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 505,
+    "fullName": "Demetrios Komninos",
+    "email": "d.komninos@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 506,
+    "fullName": "Athina Avagianou",
+    "email": "a.avagianou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 507,
+    "fullName": "Maria Bakola",
+    "email": "m.bakola@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 508,
+    "fullName": "ISMINI DRAKOU",
+    "email": "i.drakou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 509,
+    "fullName": "Evangelos Konstantelos",
+    "email": "e.konstantellos@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 511,
+    "fullName": "Georgia Petroudi",
+    "email": "g.petroudi@euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 512,
+    "fullName": "Georgios Christofi",
+    "email": "g.christofi@external.euc.ac.cy",
+    "department": "Arts & Humanities"
+  },
+  {
+    "id": 513,
+    "fullName": "Louis Christou Castellani",
+    "email": "l.castellani@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 514,
+    "fullName": "Maria Christofi",
+    "email": "m.christofi@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 515,
+    "fullName": "Yiannis Miralis",
+    "email": "y.miralis@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 516,
+    "fullName": "Christina Charalambidou",
+    "email": "c.charalambidou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 517,
+    "fullName": "Asimina Kondylidou",
+    "email": "a.kondylidou@external.euc.ac.cy",
+    "department": "Arts & Humanities - Distance Learning"
+  },
+  {
+    "id": 520,
+    "fullName": "Ismini Rozani",
+    "email": "i.rozani@external.euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 523,
+    "fullName": "Maria Prodromou",
+    "email": "m.prodromou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 528,
+    "fullName": "Xenia Ioakim",
+    "email": "x.ioakim@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 529,
+    "fullName": "Martha Kyriakou",
+    "email": "m.kyriakou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 530,
+    "fullName": "Maria Nicolaou",
+    "email": "m.nicolaou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 531,
+    "fullName": "Vasileia Antoniou",
+    "email": "a.vasileia@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 532,
+    "fullName": "Christos Vrakas",
+    "email": "c.vrakas@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 533,
+    "fullName": "Aggeliki Bilali",
+    "email": "a.bilali@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 534,
+    "fullName": "Anastasios Liasou",
+    "email": "a.liasou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 535,
+    "fullName": "Maria Hadjibalasi",
+    "email": "m.hadjibalasi@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 537,
+    "fullName": "Christiana Philippou Charidemou",
+    "email": "c.philippou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 538,
+    "fullName": "Stavroula Chrysostomou",
+    "email": "s.chrysostomou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 539,
+    "fullName": "Maria Kantilafti",
+    "email": "m.kantilafti@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 540,
+    "fullName": "Ioannis Karis",
+    "email": "i.karis@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 541,
+    "fullName": "Elena Hadjimbei",
+    "email": "e.hadjimbei@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 542,
+    "fullName": "Iris Sergiou",
+    "email": "i.sergiou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 545,
+    "fullName": "Nitsa Kiliari",
+    "email": "n.kiliari@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 551,
+    "fullName": "Sotirios Batsakis",
+    "email": "s.batsakis@external.euc.ac.cy",
+    "department": "Computer Science and Engineering - Distance Learning"
+  },
+  {
+    "id": 552,
+    "fullName": "Dikaios Sakellariou",
+    "email": "d.sakellariou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 553,
+    "fullName": "Marina Georgiadou",
+    "email": "m.georgiadou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 555,
+    "fullName": "Stavros Orologas",
+    "email": "s.orologas@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 556,
+    "fullName": "Sofia Margaritidou",
+    "email": "s.margaritidou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 557,
+    "fullName": "Andreas Nicolaides",
+    "email": "a.nicolaides@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 558,
+    "fullName": "Popi Moustaka",
+    "email": "p.moustaka@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 562,
+    "fullName": "Andreas Perikleous",
+    "email": "a.perikleous@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 567,
+    "fullName": "Antonis Anastassiades",
+    "email": "a.anastassiades@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 572,
+    "fullName": "Michael Kendeas",
+    "email": "m.kendeas@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 573,
+    "fullName": "Rafail Machattos",
+    "email": "r.machattos@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 575,
+    "fullName": "Andreas Kalogirou",
+    "email": "a.kalogirou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 582,
+    "fullName": "Christos Hadjimichael",
+    "email": "ch.hadjimichael@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 585,
+    "fullName": "Eleni Moushi",
+    "email": "e.moushi@euc.ac.cy",
+    "department": "Life Sciences - Distance Learning"
+  },
+  {
+    "id": 594,
+    "fullName": "Vicky Papadopoulou Lesta",
+    "email": "v.papadopoulou@euc.ac.cy",
+    "department": "Computer Science and Engineering"
+  },
+  {
+    "id": 597,
+    "fullName": "Alexandros Heraclides",
+    "email": "a.heraclides@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 600,
+    "fullName": "Theodoros Fouskas",
+    "email": "t.fouskas@external.euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 601,
+    "fullName": "Marianna Charalambous",
+    "email": "m.charalambous@external.euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 602,
+    "fullName": "Constantinos Tsioutis",
+    "email": "k.tsioutis@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 603,
+    "fullName": "Charalambos Filippou",
+    "email": "c.filippou@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 604,
+    "fullName": "Demetris Lamnisos",
+    "email": "d.lamnisos@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 607,
+    "fullName": "Michail Pantouveris",
+    "email": "m.pantouveris@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 608,
+    "fullName": "Christos Karayiannis",
+    "email": "c.karayiannis@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 610,
+    "fullName": "Panagiotis Rentzias",
+    "email": "p.rentzias@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 612,
+    "fullName": "Iris Nicolaidou Rousou",
+    "email": "i.nicolaidourousou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 613,
+    "fullName": "Ioanna Giannakou",
+    "email": "i.giannakou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 614,
+    "fullName": "George Panayiotou",
+    "email": "g.panayiotou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 616,
+    "fullName": "Kyriakos Pavlou",
+    "email": "k.pavlou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 618,
+    "fullName": "Charalambos Papacharalambous",
+    "email": "c.papacharalambous@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 619,
+    "fullName": "George Ploutarhou",
+    "email": "g.ploutarchou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 620,
+    "fullName": "Antonios Zacharopoulos",
+    "email": "a.zacharopoulos@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 621,
+    "fullName": "Skevi Neofytou",
+    "email": "s.neofytou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 626,
+    "fullName": "Katerina Georgiou",
+    "email": "k.georgiou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 627,
+    "fullName": "Charalambos Papageorgiou",
+    "email": "b.papageorgiou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 628,
+    "fullName": "Andri Christoforou",
+    "email": "a.christoforou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 629,
+    "fullName": "Constantinos Michael",
+    "email": "c.michael@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 630,
+    "fullName": "George Poyiadjis",
+    "email": "g.poyiadjis@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 631,
+    "fullName": "Eleonora Papaleontiou Louca",
+    "email": "e.papaleontiou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 632,
+    "fullName": "Elena Constantinou",
+    "email": "el.constantinou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 633,
+    "fullName": "Stefani Demetriou",
+    "email": "s.demetriou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 634,
+    "fullName": "Andreas Philaretou",
+    "email": "a.philaretou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 635,
+    "fullName": "Elenitsa Kitromilides",
+    "email": "e.kitromilides@euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 636,
+    "fullName": "Loukas Christodoulou",
+    "email": "l.christodoulou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 637,
+    "fullName": "Andreas Thoma",
+    "email": "an.thoma@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences"
+  },
+  {
+    "id": 638,
+    "fullName": "Anna Tsiakiri",
+    "email": "a.tsiakiri@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 639,
+    "fullName": "Marina Chrysostomou",
+    "email": "m.chrysostomou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 640,
+    "fullName": "Iouliani Pachiti",
+    "email": "i.pachiti@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 641,
+    "fullName": "Lamprini Seremeti",
+    "email": "l.seremeti@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 642,
+    "fullName": "Louiza Makka",
+    "email": "l.makka@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 643,
+    "fullName": "Spyridon Tegos",
+    "email": "s.tegos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 644,
+    "fullName": "Evangelos Protopapadakis",
+    "email": "e.protopapadakis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 645,
+    "fullName": "Georgia Thrasyvoulou",
+    "email": "g.thrasyvoulou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 646,
+    "fullName": "Maria Uliniuc",
+    "email": "m.uliniuc@external.euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 647,
+    "fullName": "Sofia Anastasiadou",
+    "email": "s.anastasiadou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 648,
+    "fullName": "Eleni Epiphaniou",
+    "email": "e.epiphaniou@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 649,
+    "fullName": "Antonis Katsouros",
+    "email": "a.katsouros@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 650,
+    "fullName": "Maria Koletsi",
+    "email": "m.koletsi@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 651,
+    "fullName": "Foteini Marmani",
+    "email": "f.marmani@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 652,
+    "fullName": "Aikaterini Tzanetakou",
+    "email": "k.tzanetakou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 653,
+    "fullName": "Despina Kouali",
+    "email": "d.kouali@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 654,
+    "fullName": "Aliki Economides",
+    "email": "a.economides@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 655,
+    "fullName": "Nataly Loumba Philaretou",
+    "email": "n.philaretou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 656,
+    "fullName": "Chrysa Aristidou",
+    "email": "c.aristidou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 657,
+    "fullName": "Antonios Theofilides",
+    "email": "a.theofilides@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 658,
+    "fullName": "Tatiani Gkatsa",
+    "email": "t.gkatsa@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 659,
+    "fullName": "Athanasios Mouratidis",
+    "email": "a.mouratidis@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 660,
+    "fullName": "Georgios Ntritsos",
+    "email": "g.ntritsos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 661,
+    "fullName": "Katerina Giorgalla",
+    "email": "k.giorgalla@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 662,
+    "fullName": "Moira Tzitzika",
+    "email": "m.tzitzika@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 663,
+    "fullName": "Eleni Petkari",
+    "email": "e.petkari@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 664,
+    "fullName": "Kalia Nikolaou",
+    "email": "k.nikolaou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 665,
+    "fullName": "Maria Kalli",
+    "email": "m.kalli@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 666,
+    "fullName": "Thanos Touloupis",
+    "email": "t.touloupis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 667,
+    "fullName": "Marina Katsari",
+    "email": "ma.katsari@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 668,
+    "fullName": "Efharis Panagopoulou",
+    "email": "e.panagopoulou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 669,
+    "fullName": "Chryso Pieridi",
+    "email": "c.pieridi@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 670,
+    "fullName": "Georgia Yerolemou",
+    "email": "g.gerolemou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 671,
+    "fullName": "Georgia Charalambous",
+    "email": "g.charalambous@research.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 672,
+    "fullName": "Aikaterini Neratzaki",
+    "email": "a.neratzaki@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 673,
+    "fullName": "Antonios Christou",
+    "email": "an.christou@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 674,
+    "fullName": "Ioannis Katsantonis",
+    "email": "i.katsantonis@external.euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 675,
+    "fullName": "Charis Xinari",
+    "email": "c.xinaris@euc.ac.cy",
+    "department": "Social and Behavioural Sciences - Distance Learning"
+  },
+  {
+    "id": 677,
+    "fullName": "Panayiotis Hadjitheodorou",
+    "email": "p.hadjitheodorou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 678,
+    "fullName": "Eliana Michael",
+    "email": "eli.michael@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 679,
+    "fullName": "Stefanos Leandrou",
+    "email": "s.leandrou@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 680,
+    "fullName": "Christos Tsiotsios",
+    "email": "c.tsiotsios@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 681,
+    "fullName": "Panagiotis Vourtsas",
+    "email": "p.vourtsas@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 682,
+    "fullName": "Thasos Athanasiou",
+    "email": "t.athanasiou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 683,
+    "fullName": "Irene Polycarpou",
+    "email": "i.polycarpou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 684,
+    "fullName": "Evangelia Solea",
+    "email": "e.solea@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 685,
+    "fullName": "Spyros Spyrou",
+    "email": "s.spyrou@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 686,
+    "fullName": "Ioanna Maroulli",
+    "email": "i.maroulli@research.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 687,
+    "fullName": "Genovefa Zafeiridou",
+    "email": "g.zafeiridou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 688,
+    "fullName": "Marianna Christodoulou Devledian",
+    "email": "mari.christodoulou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 689,
+    "fullName": "Nicolaos Neocleous",
+    "email": "n.neocleous@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 690,
+    "fullName": "Melpomeni Vorka",
+    "email": "m.vorka@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 691,
+    "fullName": "Maria Paphiti",
+    "email": "m.paphiti@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 692,
+    "fullName": "Konstantinos Drosos",
+    "email": "k.drosos@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 693,
+    "fullName": "ELENI YIANGOU",
+    "email": "e.yiangou@euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 694,
+    "fullName": "Maria Solomonidou",
+    "email": "m.solomonidou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 696,
+    "fullName": "Astero Constantinou",
+    "email": "as.constantinou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 697,
+    "fullName": "Alexis Batrakoulis",
+    "email": "a.batrakoulis@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 698,
+    "fullName": "Andreas Andreou",
+    "email": "a.andreou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 699,
+    "fullName": "Antonis Alexopoulos",
+    "email": "a.alexopoulos@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 700,
+    "fullName": "Joumana Dajani",
+    "email": "j.dajani@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 701,
+    "fullName": "Anastasios Theodorou",
+    "email": "a.theodorou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 703,
+    "fullName": "Eirini Proviadaki",
+    "email": "e.proviadaki@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 704,
+    "fullName": "Filippos Christodoulou",
+    "email": "f.christodoulou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 705,
+    "fullName": "Christos Karagiannis",
+    "email": "c.karagiannis@euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 706,
+    "fullName": "Andreas Dimitriou",
+    "email": "a.dimitriou@euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 711,
+    "fullName": "Vasilis Symeou",
+    "email": "v.symeou@external.euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 712,
+    "fullName": "Kyriaki Markoullis Zenonos",
+    "email": "k.zenonos@euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 715,
+    "fullName": "Kyriaki Keramiotou",
+    "email": "k.keramiotou@external.euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 716,
+    "fullName": "Georgios Gkrimas",
+    "email": "g.gkrimas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 717,
+    "fullName": "Vassilis Kokotas",
+    "email": "v.kokotas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 718,
+    "fullName": "Maria Sanchez",
+    "email": "m.sanchez@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 719,
+    "fullName": "Katy Hamana",
+    "email": "k.hamana@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 720,
+    "fullName": "Anthi Kellari",
+    "email": "a.kellari@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 721,
+    "fullName": "Pavlina Lena",
+    "email": "p.lena@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 722,
+    "fullName": "Pavlina Psychouli",
+    "email": "p.psychouli@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 723,
+    "fullName": "Chris Livadiotis",
+    "email": "c.livadiotis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 724,
+    "fullName": "Stefani Agioti",
+    "email": "s.agioti@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 725,
+    "fullName": "Eliana Liasi",
+    "email": "e.liasi@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 726,
+    "fullName": "Panayiota Miltiadou",
+    "email": "p.miltiadou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 727,
+    "fullName": "Maria Christou",
+    "email": "m.christou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 728,
+    "fullName": "Charalambos Anastasiou",
+    "email": "ch.anastasiou@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 729,
+    "fullName": "Panagiotis Papageorgis",
+    "email": "p.papageorgis@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 730,
+    "fullName": "Vasiliki Kaikiti",
+    "email": "v.kaikiti@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 731,
+    "fullName": "Laoura Komodiki",
+    "email": "l.komodiki@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 732,
+    "fullName": "Christoforos Rozario",
+    "email": "c.rozario@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 733,
+    "fullName": "Christiana Kitsiou",
+    "email": "c.kitsiou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 734,
+    "fullName": "Maria Kaloyirou",
+    "email": "m.kaloyirou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 735,
+    "fullName": "Theodora Christina Kyriakou",
+    "email": "t.kyriakou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 736,
+    "fullName": "Angeliki Hadjisavva",
+    "email": "a.hadjisavva@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 737,
+    "fullName": "Constantinos Nikiforou",
+    "email": "c.nikiforou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 738,
+    "fullName": "Athanasios Metaxas",
+    "email": "a.metaxas@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 739,
+    "fullName": "Ioakeim Antoniou",
+    "email": "io.antoniou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 740,
+    "fullName": "Maria Pavlidou",
+    "email": "m.pavlidou@euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 741,
+    "fullName": "KATERINA IOANNOU",
+    "email": "k.ioannou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 742,
+    "fullName": "Ioannis Stavrou",
+    "email": "io.stavrou@euc.ac.cy",
+    "department": "Life Sciences - Distance Learning"
+  },
+  {
+    "id": 743,
+    "fullName": "Georgia Ioannou",
+    "email": "g.ioannou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 744,
+    "fullName": "Evgenia Maria Tsantila",
+    "email": "e.tsantila@research.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 745,
+    "fullName": "Maria Vassiliou",
+    "email": "m.vassiliou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 746,
+    "fullName": "Savvas Costa",
+    "email": "s.costa@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 747,
+    "fullName": "Evripidis Stylianidis",
+    "email": "e.stylianidis@euc.ac.cy",
+    "department": "Law"
+  },
+  {
+    "id": 748,
+    "fullName": "Iva Tzvetanova",
+    "email": "i.tzvetanova@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 749,
+    "fullName": "Elizabeth Johnson O",
+    "email": "e.johnson@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 750,
+    "fullName": "Konstantinos Giannakou",
+    "email": "k.giannakou@euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 751,
+    "fullName": "Dimitrios Panaretos",
+    "email": "d.panaretos@external.euc.ac.cy",
+    "department": "Health Sciences - Distance Learning"
+  },
+  {
+    "id": 752,
+    "fullName": "Efthymios Karapetsas",
+    "email": "e.karapetsas@external.euc.ac.cy",
+    "department": "Health Sciences"
+  },
+  {
+    "id": 753,
+    "fullName": "Alexandros-Stamatios Antoniou",
+    "email": "al.antoniou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 754,
+    "fullName": "Chrystalla Protopapa",
+    "email": "c.protopapa@external.euc.ac.cy",
+    "department": "Life Sciences - Distance Learning"
+  },
+  {
+    "id": 755,
+    "fullName": "Alexandros Antoniou",
+    "email": "ale.antoniou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 756,
+    "fullName": "Alexios Pothos",
+    "email": "a.pothos@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 757,
+    "fullName": "Vasileia Rinaki",
+    "email": "v.rinaki@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 758,
+    "fullName": "Theofanis Vavilis",
+    "email": "t.vavilis@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 759,
+    "fullName": "Zoe Eliadou",
+    "email": "z.eliadou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 760,
+    "fullName": "Shabnam Jaafari",
+    "email": "s.jaafari@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 761,
+    "fullName": "Eleni Tsouma",
+    "email": "e.tsouma@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 762,
+    "fullName": "Rafaellos Dimitriou",
+    "email": "r.dimitriou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 763,
+    "fullName": "Elpida Emmanouil Nikoloussi",
+    "email": "e.nikoloussi@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 764,
+    "fullName": "Meryem Sila Durmaz",
+    "email": "m.durmaz@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 765,
+    "fullName": "Chrysi Tomouzou",
+    "email": "c.tomouzou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 766,
+    "fullName": "Christiana Christodoulou",
+    "email": "ch.christodoulou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 767,
+    "fullName": "Chrystalla Charalambous",
+    "email": "ch.charalambous@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 768,
+    "fullName": "Andreas Matheou",
+    "email": "a.matheou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 769,
+    "fullName": "Michael Petrou",
+    "email": "m.petrou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 770,
+    "fullName": "Joe Manuel Sayegh",
+    "email": "j.sayegh@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 771,
+    "fullName": "Dimitra Karagkiaouri",
+    "email": "d.karagkiaouri@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 772,
+    "fullName": "Melin Baldji",
+    "email": "m.balci@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 773,
+    "fullName": "Antreas Papadopoulos",
+    "email": "ant.papadopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 774,
+    "fullName": "Eleni Christou",
+    "email": "e.christou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 775,
+    "fullName": "Konstantinos Giannakopoulos",
+    "email": "k.giannakopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 776,
+    "fullName": "Anas Salim",
+    "email": "s.anas@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 777,
+    "fullName": "Memnia Theodorou",
+    "email": "me.theodorou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 778,
+    "fullName": "Petros Agathaggelou",
+    "email": "p.agathaggelou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 779,
+    "fullName": "Ioanna Hadjiantoniou",
+    "email": "i.hadjiantoniou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 780,
+    "fullName": "Soteris Achilleos",
+    "email": "s.achilleos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 781,
+    "fullName": "Argyro Frangou",
+    "email": "a.frangou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 782,
+    "fullName": "Angeliki Papadopoulou",
+    "email": "a.papadopoulou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 783,
+    "fullName": "Maria Prountzou",
+    "email": "m.prountzou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 784,
+    "fullName": "Mary kalyva",
+    "email": "m.kalyva@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 785,
+    "fullName": "Kyriaki Chatzittofi",
+    "email": "k.chatzittofi@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 786,
+    "fullName": "Maria Michail",
+    "email": "m.michail@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 787,
+    "fullName": "Natali Markoviti",
+    "email": "n.markoviti@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 788,
+    "fullName": "Theodosia Mouskou",
+    "email": "t.mouskou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 789,
+    "fullName": "Eleni Soloukidou",
+    "email": "e.soloukidou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 790,
+    "fullName": "Maria Georgiou",
+    "email": "m_georgiou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 791,
+    "fullName": "Georgia Neophytou",
+    "email": "g.neophytou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 792,
+    "fullName": "Christos Theocharides",
+    "email": "c.theocharides@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 793,
+    "fullName": "Alexandros Panayiotou",
+    "email": "a.panayiotou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 794,
+    "fullName": "Julia Solomondos",
+    "email": "j.solomondos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 795,
+    "fullName": "Christina Zacharia",
+    "email": "c.zacharia@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 796,
+    "fullName": "Christina Karamini",
+    "email": "c.karamini@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 797,
+    "fullName": "Panagiota Chatzidou",
+    "email": "p.chatzidou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 798,
+    "fullName": "Anna Christodoulou",
+    "email": "an.christodoulou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 799,
+    "fullName": "Yiannos Poyiadjis",
+    "email": "y.poyiadjis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 800,
+    "fullName": "Andreas Artopoulos",
+    "email": "a.artopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 801,
+    "fullName": "Giannis Pistolas",
+    "email": "g.pistolas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 802,
+    "fullName": "Georgios Kontovazainitis",
+    "email": "g.kontovazainitis@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 803,
+    "fullName": "Kyriaki Stylianou",
+    "email": "ky.stylianou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 804,
+    "fullName": "Chariklia Neofytou",
+    "email": "c.neofytou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 805,
+    "fullName": "Zoe Kostrikki",
+    "email": "z.kostrikki@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 806,
+    "fullName": "Elena Talioti",
+    "email": "e.talioti@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 807,
+    "fullName": "Panagiotis Pitros",
+    "email": "p.pitros@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 808,
+    "fullName": "Nicos Papadopoulos",
+    "email": "n.papadopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 809,
+    "fullName": "Christina Sachanidou",
+    "email": "c.sachanidou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 810,
+    "fullName": "Smaragda Diamanti",
+    "email": "s.diamanti@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 811,
+    "fullName": "Katerina Stylianou",
+    "email": "k.stylianou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 812,
+    "fullName": "Michalis Zenonos",
+    "email": "m.zenonos@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 813,
+    "fullName": "Vasilis Panayiotou",
+    "email": "v.panayiotou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 814,
+    "fullName": "Christis Isseyegh",
+    "email": "c.isseyegh@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 815,
+    "fullName": "Constantinos Kyriakides",
+    "email": "c.kyriakides@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 816,
+    "fullName": "Despina Sophia Chrysostomou",
+    "email": "d.chrysostomou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 817,
+    "fullName": "Andreas Yiannouras",
+    "email": "a.yiannouras@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 818,
+    "fullName": "Christiana Solomou",
+    "email": "c.solomou@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 819,
+    "fullName": "Katerina Kavvadia",
+    "email": "k.kavvadia@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 820,
+    "fullName": "Despo Soteriou",
+    "email": "d.sotiriou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 821,
+    "fullName": "Konstantina Taoufik",
+    "email": "k.taoufik@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 822,
+    "fullName": "Danae Georgia Savoulli",
+    "email": "d.savoulli@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 823,
+    "fullName": "Maria Spyridonos Loizidou",
+    "email": "m.spyridonos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 824,
+    "fullName": "Zoi Daskalaki",
+    "email": "z.daskalaki@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 825,
+    "fullName": "Eliana Hadjiantonis",
+    "email": "e.hadjiantonis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 826,
+    "fullName": "Virginia Papageorgiou",
+    "email": "vi.papageorgiou@euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 827,
+    "fullName": "Charalambia Michael",
+    "email": "cha.michael@euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 828,
+    "fullName": "Kypros Ph Protopapas",
+    "email": "k.protopapas@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 829,
+    "fullName": "Serafeim Chaintoutis",
+    "email": "s.chaintoutis@external.euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 830,
+    "fullName": "Christos Zafeiridis",
+    "email": "c.zafeiridis@external.euc.ac.cy",
+    "department": "Veterinary Medicine"
+  },
+  {
+    "id": 831,
+    "fullName": "Theodora Ivanova",
+    "email": "t.ivanova@external.euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 832,
+    "fullName": "THEOFANIS LIATIS",
+    "email": "t.liatis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 833,
+    "fullName": "Stella Timotheou",
+    "email": "s.timotheou@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 834,
+    "fullName": "Ioannis Roussakis",
+    "email": "y.roussakis@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 835,
+    "fullName": "Lefkios Neophytou",
+    "email": "l.neophytou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 836,
+    "fullName": "Christiana Pieroulli Pishia",
+    "email": "c.pishia@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 837,
+    "fullName": "Antonia Samara",
+    "email": "a.samara@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 838,
+    "fullName": "Simone Photiou",
+    "email": "s.photiou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 839,
+    "fullName": "Maria Papaconstantinou Leonidou",
+    "email": "m.leonidou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 840,
+    "fullName": "Kristia Yiangou",
+    "email": "k.yiangou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 841,
+    "fullName": "Sophia Kyriakou",
+    "email": "s.kyriacou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 842,
+    "fullName": "Aikaterini Christidi",
+    "email": "a.christidi@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 843,
+    "fullName": "Andreas Xanthopoulos",
+    "email": "a.xanthopoulos@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 844,
+    "fullName": "Petros Agathangelou",
+    "email": "p.agathangelou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 845,
+    "fullName": "Petros Nihoyannopoulos",
+    "email": "p.nihoyannopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 846,
+    "fullName": "Hera Heracleous",
+    "email": "h.heracleous@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 847,
+    "fullName": "Konstantinos Lampropoulos",
+    "email": "k.lampropoulos@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 848,
+    "fullName": "Ioannis Patrikios",
+    "email": "i.patrikios@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 849,
+    "fullName": "Filippos Triposkiadis",
+    "email": "f.triposkiadis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 850,
+    "fullName": "Charalampos Grassos",
+    "email": "c.grassos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 851,
+    "fullName": "Kyriakos Yiangou",
+    "email": "ky.yiangou@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 852,
+    "fullName": "Kyriakos Ioannou",
+    "email": "ky.ioannou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 853,
+    "fullName": "Kyriakos Kypreos",
+    "email": "k.kypreos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 854,
+    "fullName": "Dimitrios Chatzis",
+    "email": "d.chatzis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 855,
+    "fullName": "Andreas Synetos",
+    "email": "a.synetos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 856,
+    "fullName": "Panagis Kassianos",
+    "email": "p.kassianos@external.euc.ac.cy",
+    "department": "Education Sciences - Distance Learning"
+  },
+  {
+    "id": 857,
+    "fullName": "Evi Matsigou",
+    "email": "e.matsigou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 858,
+    "fullName": "Maria Varzakakou",
+    "email": "m.varzakakou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 859,
+    "fullName": "Andrea Georgiou",
+    "email": "a.georgiou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 860,
+    "fullName": "Pieris Chourides",
+    "email": "p.chourides@euc.ac.cy",
+    "department": "Management and Marketing - Distance Learning"
+  },
+  {
+    "id": 861,
+    "fullName": "Andreas Stylianou",
+    "email": "an.stylianou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 862,
+    "fullName": "Fotini Poyia",
+    "email": "f.poyia@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 863,
+    "fullName": "Maria Andreou",
+    "email": "mari.andreou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 864,
+    "fullName": "Dimitra Markantoni",
+    "email": "d.markantoni@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 865,
+    "fullName": "Anastasis Stephanou",
+    "email": "a.stephanou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 866,
+    "fullName": "Charalambos Michaeloudes",
+    "email": "c.michaeloudes@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 867,
+    "fullName": "Prodromos Kaplanis",
+    "email": "p.kaplanis@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 868,
+    "fullName": "Ekaterini Kyprianou",
+    "email": "e.kyprianou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 869,
+    "fullName": "Andriana Till",
+    "email": "a.till@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 870,
+    "fullName": "Andreas Kousios",
+    "email": "a.kousios@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 871,
+    "fullName": "Nikolaos Spernovasilis",
+    "email": "n.spernovasilis@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 872,
+    "fullName": "Evangelia Michailidou",
+    "email": "e.michailidou@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 873,
+    "fullName": "Ioannis Anastasiou",
+    "email": "i.anastasiou@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 874,
+    "fullName": "Vicky Zeniou",
+    "email": "v.zeniou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 875,
+    "fullName": "Maria Diakomi",
+    "email": "m.diakomi@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 876,
+    "fullName": "Tima Battah",
+    "email": "t.battah@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 877,
+    "fullName": "Lawko Brwa  Ahmed",
+    "email": "l.ahmed@research.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 878,
+    "fullName": "George Karagiannis",
+    "email": "g.karagiannis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 879,
+    "fullName": "Ioannis Dimovelis",
+    "email": "g.dimovelis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 880,
+    "fullName": "Victoria Polydorou",
+    "email": "v.polydorou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 881,
+    "fullName": "Dimitrios Chytas",
+    "email": "d.chytas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 882,
+    "fullName": "Adamantios Michalinos",
+    "email": "a.michalinos@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 883,
+    "fullName": "Georgios P Georghiou",
+    "email": "geo.georgiou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 884,
+    "fullName": "Katerina Menelaou",
+    "email": "k.menelaou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 885,
+    "fullName": "Eirini Triantafyllaki",
+    "email": "e.triantafyllaki@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 886,
+    "fullName": "Dimitrios Anastasiou",
+    "email": "d.anastasiou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 887,
+    "fullName": "Michalis Zenios",
+    "email": "m.zenios@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 888,
+    "fullName": "Alfredo Maria Gravagnuolo",
+    "email": "a.gravagnuolo@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 889,
+    "fullName": "Anastasios Chatzidimitriou",
+    "email": "a.chatzidimitriou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 890,
+    "fullName": "Loizos Siakallis",
+    "email": "l.siakallis@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 891,
+    "fullName": "Georgios Hadjigeorgiou",
+    "email": "g.hadjigeorgiou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 892,
+    "fullName": "Dimitrios Papadopoulos",
+    "email": "d.papadopoulos@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 893,
+    "fullName": "Argyrios Tsakalis",
+    "email": "a.tsakalis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 894,
+    "fullName": "Eleni Hadjicosta",
+    "email": "e.hadjicosta@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 895,
+    "fullName": "Marinos Petrou",
+    "email": "ma.petrou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 896,
+    "fullName": "Marianna Kakoulli",
+    "email": "m.kakoulli@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 897,
+    "fullName": "Konstantinos Ekmektzoglou",
+    "email": "k.ekmektzoglou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 898,
+    "fullName": "Angelos Kyriakou",
+    "email": "an.kyriacou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 899,
+    "fullName": "Vasiliki Danilatou",
+    "email": "v.danilatou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 900,
+    "fullName": "Violetta Raffay",
+    "email": "v.raffay@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 901,
+    "fullName": "Nikolaos Nikolaou",
+    "email": "ni.nikolaou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 902,
+    "fullName": "Andreas Larentzakis",
+    "email": "a.larentzakis@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 903,
+    "fullName": "Gabriela Tsalamandris",
+    "email": "g.tsalamandris@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 904,
+    "fullName": "Richard Saad",
+    "email": "r.saad@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 905,
+    "fullName": "Christina Kousparou",
+    "email": "c.kousparou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 906,
+    "fullName": "Antonia Hadjicosta",
+    "email": "a.hadjicosta@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 907,
+    "fullName": "Pani Christodoulou",
+    "email": "pa.christodoulou@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 908,
+    "fullName": "Dia Voniati",
+    "email": "d.voniati@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 909,
+    "fullName": "Moustafa Alkhalaf",
+    "email": "m.alkhalaf@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 910,
+    "fullName": "Irene Cotter",
+    "email": "i.cotter@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 911,
+    "fullName": "Stylianos Kakoullis",
+    "email": "s.kakoullis@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 912,
+    "fullName": "Dimitrios Ntourakis",
+    "email": "d.ntourakis@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 913,
+    "fullName": "Constantinos Christou",
+    "email": "c.christou@external.euc.ac.cy",
+    "department": "Life Sciences"
+  },
+  {
+    "id": 914,
+    "fullName": "Dimitrios Artemis",
+    "email": "d.artemis@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 915,
+    "fullName": "Vasiliki Papadopoulou",
+    "email": "va.papadopoulou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 916,
+    "fullName": "Georgia Andriana Georgopoulou",
+    "email": "g.georgopoulou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 917,
+    "fullName": "Andreas Zachariades",
+    "email": "a.zachariades@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 918,
+    "fullName": "Michael Toumbis",
+    "email": "m.toumbis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 919,
+    "fullName": "Ioannis Pantazopoulos",
+    "email": "i.pantazopoulos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 920,
+    "fullName": "Nikos Karpettas",
+    "email": "n.karpettas@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 921,
+    "fullName": "Spyros Koursoumbas",
+    "email": "s.koursoumbas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 922,
+    "fullName": "Dimitrios Stergiou",
+    "email": "d.stergiou@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 923,
+    "fullName": "Eleni Demetriou",
+    "email": "e.demetriou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 924,
+    "fullName": "Zeyad Samer Jan Al Jazrawi",
+    "email": "z.jazrawi@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 925,
+    "fullName": "George M Minas",
+    "email": "ge.minas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 926,
+    "fullName": "Zoi Nitsa",
+    "email": "z.nitsa@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 927,
+    "fullName": "Athanasios Petrou",
+    "email": "ath.petrou@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 928,
+    "fullName": "George Shiakos",
+    "email": "g.shiakos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 929,
+    "fullName": "Maria Tsiskari",
+    "email": "m.tsitskari@euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 930,
+    "fullName": "Neophytos Demetriades",
+    "email": "n.demetriades@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 931,
+    "fullName": "Stavros Tombris",
+    "email": "s.tombris@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 932,
+    "fullName": "Rigas Filippos Soldatos",
+    "email": "r.soldatos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 933,
+    "fullName": "Christina Neophytou",
+    "email": "ch.neophytou@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 934,
+    "fullName": "Kyriakos Kakoullis",
+    "email": "k.kakoullis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 935,
+    "fullName": "Panagiotis Drakopoulos",
+    "email": "p.drakopoulos@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 936,
+    "fullName": "Alexandros Lazaridis",
+    "email": "a.lazaridis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 937,
+    "fullName": "Polyxeni Maria Sarli",
+    "email": "p.sarli@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 938,
+    "fullName": "Pantelis Trompoukis",
+    "email": "p.trompoukis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 939,
+    "fullName": "Androulla Pavli",
+    "email": "a.pavli@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 940,
+    "fullName": "Anastasia Symeou",
+    "email": "n.symeou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 941,
+    "fullName": "Evripidis Efthymiou",
+    "email": "e.efthymiou@external.euc.ac.cy",
+    "department": "Medicine"
+  },
+  {
+    "id": 942,
+    "fullName": "Maria Drogouti",
+    "email": "m.drogouti@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 943,
+    "fullName": "Nikolaos Filippou",
+    "email": "n.filippou@research.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 944,
+    "fullName": "Christos Zafeiriou",
+    "email": "c.zafeiriou@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 945,
+    "fullName": "Georgios Malietzis",
+    "email": "g.malietzis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 946,
+    "fullName": "Evangelos Symeonidis",
+    "email": "e.symeonidis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 947,
+    "fullName": "Stefanos Koffas",
+    "email": "s.koffas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 948,
+    "fullName": "Lampros Liasis",
+    "email": "l.liasis@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 949,
+    "fullName": "Panagiotis Lainas",
+    "email": "p.lainas@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 950,
+    "fullName": "Efthymios Avgerinos",
+    "email": "e.avgerinos@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 951,
+    "fullName": "Christodoulos Laspos",
+    "email": "c.laspos@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 952,
+    "fullName": "Miltiadis Makrygiannakis",
+    "email": "m.makrygiannakis@euc.ac.cy",
+    "department": "Dentistry"
+  },
+  {
+    "id": 953,
+    "fullName": "Nearchos Panayi",
+    "email": "n.panayi@euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 954,
+    "fullName": "Abraham Kyriakides",
+    "email": "a.kyriakides@external.euc.ac.cy",
+    "department": "Academic Staff"
+  },
+  {
+    "id": 955,
+    "fullName": "Orestis Koutras",
+    "email": "o.koutras@external.euc.ac.cy",
+    "department": "Dentistry"
+  }
+]

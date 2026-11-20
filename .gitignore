@@ -23,3 +23,12 @@ packages/
 # Publish output
 publish/
 *.Publish.xml
+
+# Instructor tooling, internal versions, and course materials
+.agents/
+Assignment/ASSIGNMENT.md
+Assignment/other-versions/
+Lectures/
+Online Quiz/
+
+
