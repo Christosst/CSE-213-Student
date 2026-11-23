@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="../CourseApi/CourseApi.csproj" />
+  <Project Path="../JsonNotesApi/JsonNotesApi.csproj" />
   <Project Path="UniversityApiTemplate.csproj" />
 </Solution>

@@ -1,0 +1,43 @@
+@host = http://localhost:5084
+
+### List notes. Initially: 200 OK and []
+GET {{host}}/api/notes
+
+### Create. 201 Created, Location header and the assigned ID
+POST {{host}}/api/notes
+Content-Type: application/json
+
+{"text":"Read chapter 28"}
+
+### Read. Replace 1 with the ID returned by POST
+GET {{host}}/api/notes/1
+
+### Update. 204 No Content
+PUT {{host}}/api/notes/1
+Content-Type: application/json
+
+{"text":"Finish the assignment"}
+
+### Reject blank input. 400 Bad Request
+POST {{host}}/api/notes
+Content-Type: application/json
+
+{"text":"   "}
+
+### Process text. This does not save a note
+POST {{host}}/api/text/uppercase
+Content-Type: application/json
+
+{"text":"hello"}
+
+### Remove surrounding whitespace. This does not save a note
+POST {{host}}/api/text/trim
+Content-Type: application/json
+
+{"text":"  hello  "}
+
+### Stop the server, restart it, then run GET again before deleting
+GET {{host}}/api/notes
+
+### Delete. 204 No Content, then 404 if repeated
+DELETE {{host}}/api/notes/1

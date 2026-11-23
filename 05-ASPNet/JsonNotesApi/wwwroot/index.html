@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>JSON Notes</title>
+  <link rel="stylesheet" href="site.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main>
+    <p>CSE213 · JSON file storage</p>
+    <h1>My notes</h1>
+    <p>Your notes stay saved on this server when the app restarts.</p>
+    <form id="note-form">
+      <input id="note-id" type="hidden">
+      <label for="note-text">Note text</label>
+      <textarea id="note-text" maxlength="500" required rows="3"></textarea>
+      <div>
+        <button id="save" type="submit">Save note</button>
+        <button id="cancel" type="button" hidden>Cancel edit</button>
+        <button id="uppercase" type="button">Make uppercase</button>
+        <button id="trim" type="button">Trim spaces</button>
+      </div>
+    </form>
+    <p id="status" role="status" aria-live="polite"></p>
+    <h2>Saved notes</h2>
+    <button id="refresh" type="button">Reload notes</button>
+    <ul id="notes"></ul>
+    <p><a href="swagger/">Try the API in Swagger</a></p>
+  </main>
+</body>
+</html>

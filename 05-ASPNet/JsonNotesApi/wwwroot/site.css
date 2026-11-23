@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background: beige;
+  color: navy;
+  margin: 0;
+  padding: 2rem 1rem;
+}
+main { max-width: 65ch; margin-inline: auto; }
+p, li { line-height: 1.6; }
+label, textarea { display: block; }
+textarea {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.75rem;
+  margin-block: 0.5rem 1rem;
+  font: inherit;
+}
+button { padding: 0.6rem; margin: 0.25rem; cursor: pointer; }
+button:disabled { cursor: wait; }
+li { margin-block: 1rem; padding: 0.5rem; background: white; }
+li span { display: block; white-space: pre-wrap; overflow-wrap: anywhere; }
+#status { min-height: 1.6em; }
+.error { color: red; }
